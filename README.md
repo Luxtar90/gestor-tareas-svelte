@@ -11,7 +11,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado:
 
 1. **Abrir terminal en el directorio del proyecto**
    ```bash
-   cd c:\Users\luigg\Documents\trae_projects\tareaweb1
+   cd c:\Users\
    ```
 
 2. **Instalar dependencias** (solo la primera vez)
